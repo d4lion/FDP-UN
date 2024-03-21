@@ -1,3 +1,4 @@
+
 while True:
 
     unidadesCompradas: int = int(input())
